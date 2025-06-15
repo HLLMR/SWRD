@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "timeline/event_map.md",
+                "file": "books/jubilees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "event_map"
+              "title": "jubilees"
             }
           }
         ]
@@ -165,11 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f64e63e03721986d",
+  "active": "7480c048652cc00a",
   "lastOpenFiles": [
+    "books/jasher.md",
+    "books/genesis.md",
     "books/enoch.md",
-    "Untitled.canvas",
     "timeline/event_map.md",
+    "Untitled.canvas",
     "timeline/people_lifespans.md",
     "timeline/chrono_index.md",
     "calendar/ruleset_notes.md",
@@ -177,12 +179,10 @@
     "branding/tagline_archive.md",
     "branding/logo_notes.md",
     "readme.md",
-    "books/jasher.md",
     "branding",
     "calendar",
     "timeline",
     "books/jubilees.md",
-    "books/genesis.md",
     "books"
   ]
 }
