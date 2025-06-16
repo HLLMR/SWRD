@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "translations/genesis/01.md",
+                "file": "translations/genesis/02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01"
+              "title": "02"
             }
           }
         ]
@@ -167,8 +167,16 @@
   },
   "active": "9236df63a70021b0",
   "lastOpenFiles": [
-    "notes/genesis/chapter 1/gen_c1v31.md",
     "translations/genesis/01.md",
+    "translations/genesis/02.md",
+    "notes/genesis/chapter 2/gen_c2v2.md",
+    "notes/genesis/chapter 2/gen_c2v1.md",
+    "notes/genesis/chapter 1/gen_c1v32-34.md",
+    "branding/tagline_archive.md",
+    "branding/swrd_taglines.md",
+    "readme.md",
+    "notes/genesis/chapter 2",
+    "notes/genesis/chapter 1/gen_c1v31.md",
     "notes/genesis/chapter 1/gen_c1v30.md",
     "notes/genesis/chapter 1/gen_c1v29.md",
     "notes/genesis/chapter 1/gen_c1v28.md",
@@ -186,14 +194,7 @@
     "notes/genesis/chapter 1/gen_c1v16.md",
     "notes/genesis/chapter 1/gen_c1v17.md",
     "translations/_template.md",
-    "notes/genesis/chapter 1/gen_c1v14.md",
-    "notes/genesis/chapter 1/gen_c1v13.md",
-    "notes/genesis/chapter 1/gen_c1v1.md",
-    "notes/genesis/chapter 1/gen_c1v2.md",
     "notes/genesis/chapter 1",
-    "notes/genesis/chapter 1/gen_c1v12.md",
-    "notes/genesis/chapter 1/gen_c1v11.md",
-    "notes/genesis/chapter 1/gen_c1v10.md",
     "translations/leviticus",
     "translations/exodus",
     "translations/numbers",
@@ -202,7 +203,6 @@
     "translations/enoch",
     "notes/enoch",
     "notes/genesis",
-    "notes",
     "Untitled.canvas"
   ]
 }
