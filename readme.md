@@ -106,6 +106,16 @@ That’s exactly how we’ll know it’s working.
 
 ---
 
+## ⚖ License
+
+This project includes original translation and commentary based on public domain source texts and is provided under a custom open-use license for study and non-commercial use.
+
+Portions of external translations, including the King James Version (KJV), Young’s Literal Translation (YLT), and the New International Version (NIV), are used under fair use for scholarly review and comparative analysis. Attribution for these works is provided in [LICENSE.md](./license.md).
+
+Please consult the [LICENSE.md](./license.md) file for full details.
+
+---
+
 ## 📢 Join the Reformation
 
 If your spirit burns at the lies…  
