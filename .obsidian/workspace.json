@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "05"
             }
+          },
+          {
+            "id": "a40f71434ce9b2ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "translations/genesis/06.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,35 +180,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9236df63a70021b0",
+  "active": "a40f71434ce9b2ae",
   "lastOpenFiles": [
-    "notes/genesis/chapter 5/gen_c5v8.md",
-    "translations/genesis/05.md",
-    "notes/genesis/chapter 5/gen_c5v7.md",
-    "notes/genesis/chapter 5/gen_c5v6.md",
-    "notes/genesis/chapter 5/gen_c5v5.md",
-    "translations/genesis/02.md",
-    "notes/genesis/chapter 5/gen_c5v4.md",
-    "notes/genesis/chapter 5/gen_c5v3.md",
-    "notes/genesis/chapter 5/gen_c5v2.md",
+    "notes/genesis/chapter 6/gen_c6v1.md",
+    "translations/genesis/06.md",
+    "notes/genesis/chapter 6",
     "notes/genesis/chapter 5/gen_c5v1.md",
-    "translations/genesis/04.md",
+    "translations/genesis/05.md",
+    "notes/genesis/chapter 5/gen_c5v32.md",
+    "notes/genesis/chapter 2/gen_c2v3.md",
+    "notes/genesis/chapter 2/gen_c2v4.md",
+    "notes/genesis/chapter 2/gen_c2v6.md",
+    "notes/genesis/chapter 2/gen_c2v2.md",
+    "notes/genesis/chapter 2/gen_c2v1.md",
+    "notes/genesis/chapter 3/gen_c3v2.md",
+    "notes/genesis/chapter 5/gen_c5v31.md",
+    "notes/genesis/chapter 5/gen_c5v30.md",
+    "notes/genesis/chapter 5/gen_c5v29.md",
+    "notes/genesis/chapter 5/gen_c5v28.md",
+    "notes/genesis/chapter 5/gen_c5v27.md",
+    "notes/genesis/chapter 5/gen_c5v26.md",
+    "notes/genesis/chapter 5/gen_c5v25.md",
+    "notes/genesis/chapter 5/gen_c5v24.md",
+    "notes/genesis/chapter 5/gen_c5v23.md",
+    "notes/genesis/chapter 5/gen_c5v20.md",
+    "notes/genesis/chapter 5/gen_c5v21.md",
+    "notes/genesis/chapter 5/gen_c5v22.md",
+    "notes/genesis/chapter 5/gen_c5v19.md",
+    "notes/genesis/chapter 5/gen_c5v18.md",
+    "notes/genesis/chapter 5/gen_c5v17.md",
     "notes/genesis/chapter 5",
-    "translations/genesis/01.md",
-    "notes/genesis/chapter 4/gen_c4v25-26.md",
-    "notes/genesis/chapter 4/gen_c4v23-24.md",
-    "notes/genesis/chapter 4/gen_c4v22.md",
-    "notes/genesis/chapter 4/gen_c4v21.md",
-    "notes/genesis/chapter 4/gen_c4v20.md",
-    "notes/genesis/chapter 4/gen_c4v19.md",
-    "notes/genesis/chapter 4/gen_c4v18.md",
-    "notes/genesis/chapter 4/gen_c4v17.md",
-    "notes/genesis/chapter 4/gen_c4v16.md",
-    "notes/genesis/chapter 4/gen_c4v15.md",
-    "notes/genesis/chapter 4/gen_c4v14.md",
-    "notes/genesis/chapter 4/gen_c4v8.md",
-    "notes/genesis/chapter 4/gen_c4v7.md",
-    "notes/genesis/chapter 4/gen_c4v6.md",
     "notes/genesis/chapter 4",
     "notes/genesis/chapter 3",
     "notes/genesis/chapter 2",
@@ -202,7 +218,6 @@
     "translations/exodus",
     "translations/numbers",
     "translations/jubilees",
-    "translations/jasher",
     "Untitled.canvas"
   ]
 }
