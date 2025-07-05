@@ -107,3 +107,8 @@
 -  🧮 **SWRD Numerical patterns** – exploring meaning in 66, 77, 777, etc.
     
 -  🧬 **Population explosion in Genesis** – where did all the people come from?
+	
+-  ⛰ **Why is Mt Ararat off-limits?**
+
+---
+
