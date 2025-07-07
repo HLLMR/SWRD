@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "project_plan/data_structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "data_structure"
             }
           }
         ]
@@ -167,6 +167,7 @@
   },
   "active": "9236df63a70021b0",
   "lastOpenFiles": [
+    "readme.md",
     "license.md",
     "translations/exodus/01.md",
     "timeline/people_lifespans.md",
@@ -182,7 +183,6 @@
     "notes/backlog_topics.md",
     "notes/ark_suppression.md",
     "project_plan/ai_agents.md",
-    "readme.md",
     "ChatGPT Image Jul 5, 2025, 05_32_41 PM.png",
     "project_plan/site_nav.md",
     "project_plan/site_style.md",
